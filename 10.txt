@@ -1,0 +1,2 @@
+CustomerId|FirstName|LastName|Company|Address|City|State|Country|PostalCode|Phone|Fax|Email|SupportRepId
+60|Bence|Borovi|BGF|Buzogany street 10-12|Budapest||Hungary|1149|||-|
